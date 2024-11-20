@@ -16,6 +16,7 @@ Chức năng áp mã khuyến mãi cho sản phẩm: Mã khuyến mãi có 2 lo�
 Xây dựng logic trong CreateOrder để lưu thông tin về đơn hàng đã nhập vào trong state của component. State này là 1 đối tượng
 Khi người dùng click vào button "Thanh toán". Hiển thị component modal có tên là ConfirmOrder .  Component này sẽ hiển thị toàn bộ thông tin đơn hàng đã nhập bên trên (Gồm thông tin khách hàng, thông tin giỏ hàng và thông tin thanh toán).
 Bonus: Thêm tính năng xóa sản phẩm khỏi giỏ hàng khi người dùng click vào một nút "Xóa" tương ứng.
+
 Phần 2: UI/UX trong ReactJS
 Sử dụng CSS hoặc thư viện sau như Material UI hoặc Ant Design để thiết kế giao diện cho bài.
 Đảm bảo rằng giao diện của bạn dễ hiểu và dễ sử dụng, ví dụ như sử dụng màu sắc và biểu tượng để làm nổi bật các nút và phần tử quan trọng.
